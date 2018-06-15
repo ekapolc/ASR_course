@@ -1,4 +1,4 @@
-#HW4 Spectrogram of Thai Phonemes
+# HW4 Spectrogram of Thai Phonemes
 
 The objective of this assignment is for students to get familiar with spectrograms of Thai phonemes as well as exploring on their own about Thai vowels whose specific formant values might not be given directly in the course materials.
 
