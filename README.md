@@ -1,4 +1,4 @@
-# 2110432 Automatic Speech Recognition course
+# 2110432 Automatic Speech Recognition
 ASR course at Chulalongkorn University for Spring 2018.
 
 ![alt text](slides/r2d2.jpg "join asr")
