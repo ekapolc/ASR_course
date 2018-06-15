@@ -7,7 +7,7 @@ The course will give an overview of the current speech technologies, and discuss
 
 ## Course syllabus
 
-
+[Here](syllabus.pdf)
 
 ## Lectures
 
@@ -15,17 +15,12 @@ The course will give an overview of the current speech technologies, and discuss
 
 ## Assignments
 
-[HW1 - Testing ASR capabilities and evaluation](HW1)
-
-[HW2 - Signal Analysis](HW2)
-
-[HW3 - Corpus Collection](HW3)
-
-[HW4 - Spectrogram Analysis](HW4)
-
-[HW5 - Feature extraction and DTW](HW5)
-
-[HW6 - Language modeling](HW6)
+* [HW1 - Testing ASR capabilities and evaluation](HW1)
+* [HW2 - Signal Analysis](HW2)
+* [HW3 - Corpus Collection](HW3)
+* [HW4 - Spectrogram Analysis](HW4)
+* [HW5 - Feature extraction and DTW](HW5)
+* [HW6 - Language modeling](HW6)
 
 [Project](project)
 
