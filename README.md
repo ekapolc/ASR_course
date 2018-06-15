@@ -7,5 +7,7 @@ ASR course at Chulalongkorn University for Spring 2018.
 
 ## Assignments
 
+## Tutorials (Kaldi-based)
+
 ## Speech corpora
 To be added
